@@ -15,3 +15,5 @@ developers:
 Alex
 Atale
 Mathyrin
+john
+peter
